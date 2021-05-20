@@ -1,0 +1,23 @@
+
+.navbar-logo img {
+    height: 6.125rem;
+    transition: all 0.3s ease-in-out; }
+
+.imgstyle{
+    width:10rem; 
+    height:16rem;
+}
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:30%;
+    width:30%;
+    position:absolute;
+}
